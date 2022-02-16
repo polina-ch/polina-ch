@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 ### Currently I'm one of the contributors:
 #### [Coliseum](https://dbforgame.herokuapp.com) - Browser MMORPG ([git repository](https://github.com/d4rsen/Coliseum))
+#### [FavorExchange](https://favour-exchange-project.herokuapp.com/) - Browser MMORPG ([git repository](https://github.com/Marsel33/FavorExchange))
+
 ### How to reach me: 
 
  - telegam - [@heypoliina](https://t.me/heypoliina) 
