@@ -1,4 +1,4 @@
-# Hi there I'm Aleksey. 👋
+# Hi there I'm Polina. 👋
 
 <!--
 compampa/compampa is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 #### [Coliseum](https://dbforgame.herokuapp.com) - Browser MMORPG ([git repository](https://github.com/d4rsen/Coliseum))
 ### How to reach me: 
 
- - telegam - [@compampa](https://t.me/compampa) 
- - email - the.miscellaneous@ya.ru
- - instagram - [forgotten.login](https://instagram.com/forgotten.login)
+ - telegam - [@heypoliina](https://t.me/heypoliina) 
+ - email - pcernogorceva@gmail.com
+ - instagram - [_polina_28](https://instagram.com/_polina_28)
 
 Techonologies | Description | Tools
 --- | --- | ---
@@ -42,7 +42,7 @@ node.js | *stack* | Express, JWT, Socket IO, REST API, axios
 SQL | *ORM & DB* | Redis, Postgres, Sequelize, MongoDB
 Development & Deploy | *services* | GIT, Firebase, Heroku, webpack
 Testing | *test* | Jest
-HTML & CSS | *preprocessors & principles* | Emmet, SaSS, Bootstrap,Material UI, module, grid, flexboxes
+HTML & CSS | *preprocessors & principles* | Ant Design, SaSS, Bootstrap,Material UI, module, grid, flexboxes
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
